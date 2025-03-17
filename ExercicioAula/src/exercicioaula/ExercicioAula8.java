@@ -6,7 +6,7 @@ package exercicioaula;
 
 /**
  *
- * 
+ * @autor davidm
  */
 import java.util.Scanner;
 public class ExercicioAula8 {

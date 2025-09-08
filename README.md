@@ -7,4 +7,4 @@ Desenvolvimento de Sistemas por prof Davi Vilar e João Siles
 
 #	Calculadora
   
--Atividade relacionada a produzir uma calculadora com Java ligada a Swing - Produzida em: 25/08/25
+- Atividade relacionada a produzir uma calculadora com Java ligada a Swing - Produzida em: 25/08/25
